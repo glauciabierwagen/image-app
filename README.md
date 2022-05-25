@@ -1,6 +1,6 @@
 # Image Gallery
 
-## Front End course. 
+## Front End course 
 
 Cretion of simple image gallery using images form unsplash.com. 
 
